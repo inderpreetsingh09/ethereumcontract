@@ -15,8 +15,8 @@
 contract MyToken {
 
     // public variables here
-    string public tokenName = "lakhan";
-    string public tokenAbbrs = "svm";
+    string public tokenName = "inder";
+    string public tokenAbbrs = "is";
     uint public totalSupply = 0;
 
 
